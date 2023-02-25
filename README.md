@@ -1,0 +1,1 @@
+TypeScript Generics practice exercise
